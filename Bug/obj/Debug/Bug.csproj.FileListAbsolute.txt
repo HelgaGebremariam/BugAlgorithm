@@ -1,0 +1,8 @@
+C:\Users\Volha_Hebremaryiam\Documents\Visual Studio 2015\Projects\Bug\Bug\bin\Debug\Bug.exe.config
+C:\Users\Volha_Hebremaryiam\Documents\Visual Studio 2015\Projects\Bug\Bug\obj\Debug\Bug.csprojResolveAssemblyReference.cache
+C:\Users\Helga\Documents\Visual Studio 2015\Projects\Bug\Bug\bin\Debug\Bug.exe.config
+C:\Users\Helga\Documents\Visual Studio 2015\Projects\Bug\Bug\obj\Debug\Bug.csprojResolveAssemblyReference.cache
+C:\Users\Helga\Documents\Visual Studio 2015\Projects\Bug\Bug\bin\Debug\Bug.exe
+C:\Users\Helga\Documents\Visual Studio 2015\Projects\Bug\Bug\bin\Debug\Bug.pdb
+C:\Users\Helga\Documents\Visual Studio 2015\Projects\Bug\Bug\obj\Debug\Bug.exe
+C:\Users\Helga\Documents\Visual Studio 2015\Projects\Bug\Bug\obj\Debug\Bug.pdb
